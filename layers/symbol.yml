@@ -17,7 +17,7 @@ layout:
     - 0
     - 1 
   text-size: 12
-  text-max-width: 12
+  text-max-width: 50
   text-field:
     - match
     - - get
